@@ -1,0 +1,11 @@
+◇ injected env (7) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+Config: {
+  cloud_name: 'vibesocialmedia',
+  api_key: '358415231811573',
+  api_secret: 'Cx3xDFWtR1tF3KXXFNe0s9tmh0g'
+}
+Error: {
+  message: 'Invalid cloud_name vibesocialmedia',
+  name: 'Error',
+  http_code: 401
+}
